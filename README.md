@@ -1,3 +1,7 @@
+# Prueba de la Herramienta
+
+La prueba de la herramienta se encuentra disponible en [Itch.io](https://elpatata2008.itch.io/farm-generator)
+
 # Funcionamiento
 
 El programa implementa un generador de terreno con granjas dividas en parcelas por vallas. Además de plantar árboles en los espacios donde no haya una valla, ni tampoco en parcelas donde no haya tierra arada. Además que tiene una variación al mismo donde las granjas ya fueron abandonadas, al punto de que está todo desolado, árboles muertos, vallas rotas, pasto muerto, entre otros.
