@@ -6,6 +6,8 @@ La prueba de la herramienta se encuentra disponible en [Itch.io](https://elpatat
 
 El programa implementa un generador de terreno con granjas dividas en parcelas por vallas. Además de plantar árboles en los espacios donde no haya una valla, ni tampoco en parcelas donde no haya tierra arada. Además que tiene una variación al mismo donde las granjas ya fueron abandonadas, al punto de que está todo desolado, árboles muertos, vallas rotas, pasto muerto, entre otros.
 
+Como extra, el programa también cuenta con una forma para explorar el mapa generado, que se encuentra cerrado la ventana de parámetros en la parte inferior izquierda. De esta forma es más sencillo experimentar la experiencia de estar en un mundo generado.
+
 ## Generación
 La generación sigue un orden "estricto" para lograr el resultado esperado:
 
